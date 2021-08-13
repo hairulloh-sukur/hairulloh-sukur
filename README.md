@@ -1,6 +1,6 @@
 # Hi, I'm Hairul! 👋
 
-### 🚀 About Me
+### 🚀 About Me:
 
 - 🔭 I’m interested in **Programming**
 
@@ -8,9 +8,7 @@
 
 - 📫 How to reach me **hairulloh.sukur@gmail.com or WA.+62812-8498-7667**
 
-### 🛠 Skills
-
-#### Languages and Tools:
+### 👨‍💻 Interest:
 
 <p align="left"> 
     <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
